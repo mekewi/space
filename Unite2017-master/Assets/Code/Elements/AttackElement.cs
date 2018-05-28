@@ -1,4 +1,4 @@
-﻿// ----------------------------------------------------------------------------
+// ----------------------------------------------------------------------------
 // Unite 2017 - Game Architecture with Scriptable Objects
 // 
 // Author: Ryan Hipple
@@ -8,7 +8,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//Nancy 123666666666
+//Nancy 1236666666661111
 namespace RoboRyanTron.Unite2017.Elements
 {
     [CreateAssetMenu]
